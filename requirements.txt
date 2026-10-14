@@ -1,0 +1,7 @@
+langgraph
+langchain-core
+langchain-groq
+langchain-community
+pydantic>=2
+python-dotenv
+tavily-python
